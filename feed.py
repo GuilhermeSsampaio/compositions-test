@@ -35,6 +35,7 @@ for item in yaml_data['item']:
         'url': link_prefix + item['file'],
         'type': 'audio/mpeg',
         'length': str(item['length'])
+        # nada
     })
 
 output_tree = xml_tree.ElementTree(rss_element)
