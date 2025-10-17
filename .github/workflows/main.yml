@@ -23,6 +23,3 @@ jobs:
             git add .
             git commit -m "Feed alterado"
             git push
-            
-            
-I
