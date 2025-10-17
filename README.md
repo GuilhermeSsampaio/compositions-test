@@ -1,4 +1,4 @@
-# The Future in Tech -- agora vai
+# The Future in Tech -- funcione
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
